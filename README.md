@@ -10,6 +10,7 @@ During this project, I applied the following Excel skills:
 • Data Validation (flagging invalid transactions like shipping before purchase)
 • Data Enrichment (creating new columns such as Purchase Year, Month, and Time to Ship)
 • Logical Functions (using IF and other formulas to standardize and clean values)
+• Project Documentation (clearly tracking all issues, actions taken, and formulas used for full transparency and reproducibility)
 
 About Me
 Hi, I'm Irakli Zhorzholadze, an aspiring Data Analyst.
